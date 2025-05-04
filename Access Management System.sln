@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access Management System", "Access Management System.csproj", "{49EDA520-8E33-4279-97E8-ECBC51C926F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49EDA520-8E33-4279-97E8-ECBC51C926F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EDA520-8E33-4279-97E8-ECBC51C926F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EDA520-8E33-4279-97E8-ECBC51C926F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EDA520-8E33-4279-97E8-ECBC51C926F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5645CA6C-3600-437D-AA0F-A396C5321183}
+	EndGlobalSection
+EndGlobal
